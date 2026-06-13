@@ -23,12 +23,13 @@ This tool can jam with Bluetooth and WiFi.
 **Description:**  
 A personal entertainment tracker website that helps users organize their watch activity by managing shows or movies they have watched, are currently watching, or plan to watch in the future.
 
-🌐 **Live Demo:**  
-:contentReference[oaicite:0]{index=0}
+<p align="left">
+  <a href="https://cinemathe-que.vercel.app/kazunji">
+    <img src="https://img.shields.io/badge/Live-Demo-blue">
+  </a>
+</p>
 
 **Preview:**  
-*(upload website screenshot as `Images/cinematheque.png`)*
-
 <p align="center">
   <img src="Images/cinematheque1.png" width="700">
   <img src="Images/cinematheque2.png" width="700">
