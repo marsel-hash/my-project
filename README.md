@@ -33,4 +33,3 @@ A personal entertainment tracker website that helps users organize their watch a
   <img src="Images/cinematheque.png" width="700">
 </p>
 
-**Technologies used:** HTML • CSS • JavaScript • Frontend Development • Responsive UI
