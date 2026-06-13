@@ -30,6 +30,7 @@ A personal entertainment tracker website that helps users organize their watch a
 *(upload website screenshot as `Images/cinematheque.png`)*
 
 <p align="center">
-  <img src="Images/cinematheque.png" width="700">
+  <img src="Images/cinematheque1.png" width="700">
+  <img src="Images/cinematheque2.png" width="700">
 </p>
 
