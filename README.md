@@ -8,5 +8,6 @@ Here are some projects I have done:
 Description: This tool can jam with Bluetooth and WiFi.
 
 Images:  
-![Compact Wifi and BLE Jammer 1](Images/project1_1.jpg)  
-![Compact Wifi and BLE Jammer 2](Images/project1_2.jpg)
+![Compact Wifi and BLE Jammer 1](Images/project1_(1).jpg)  
+![Compact Wifi and BLE Jammer 2](Images/project1_(2).jpg)
+![Compact Wifi and BLE Jammer 2](Images/project1_(3)jpg)
