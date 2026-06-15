@@ -44,7 +44,7 @@ An IoT-based smart kitchen monitoring system designed to detect LPG gas concentr
 
 <p align="center">
   <img src="Images/project3_(1).jpg" width="350">
-  <img src="Images/project3_(2).jpg" width="350">
+  <img src="Images/project3_(2)cp.jpg" width="350">
   <img src="Images/project3_(3).jpg" width="350">
   <img src="Images/project3_(4).jpg" width="350">
 </p>
